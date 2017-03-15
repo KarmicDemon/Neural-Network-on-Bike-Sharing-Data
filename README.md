@@ -1,11 +1,9 @@
-#Neural Network on Bike Sharing Data
+# Neural Network on Bike Sharing Data
 Predicts number of riders based on time
 
-###Requirements
+### Requirements
 Python 3
 jupyter
 notebook
 numpy
 pandas
-
-###Dataset not Shown
